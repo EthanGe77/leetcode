@@ -11,3 +11,5 @@ class Solution:
         if a == b:
         	return True
         else: return False
+
+Print("Hello World")
